@@ -1,0 +1,38 @@
+.main_body {
+    background-color: white;
+    width:100%;
+    height:100%;
+}
+
+.top_row {
+    background-color: rgb(75, 71, 71);
+    width:100%;
+    height: 160px;
+}
+
+.middle_bottom {
+    background-color: rgb(75, 71, 71);
+    height: 100px;
+    width: 1080px;
+    position: absolute;
+    bottom: 0px;
+    right:200px;
+    left: 180px;
+}
+
+.left_col {
+    background-color: rgb(224, 222, 228);
+    width: 180px;
+    height: 700px;
+    position: left;
+}
+
+.right_col {
+    background-color: rgb(224, 222, 228);
+    width: 180px;
+    height: 700px;
+    position: absolute;
+    right: 0px;
+    top: 160px;
+}
+
